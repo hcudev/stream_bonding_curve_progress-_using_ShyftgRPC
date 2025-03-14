@@ -7,8 +7,6 @@ Monitor the bonding curve progress of tokens while streaming transaction on Pump
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Shyft-to/solana-defi.git
-   
-   cd PumpFun/Typescript/stream-pump-fun-transactions-and-detect-buy-sell-events
    ```
 
 2. **Install Dependencies:**
